@@ -1,2 +1,2 @@
 # image_denoising
-Image denoising using autoencoders
+This project was done as a part of the Applied physics and electronics seminar at Research Station "Petnica".
